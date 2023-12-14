@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927981515275",
+    "project_id": "links-2023",
+    "storage_bucket": "links-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927981515275:android:c2dbc8b4bb3560d977cd0e",
+        "android_client_info": {
+          "package_name": "com.app.links"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4hcf8ghcPiyVmslpqk7eH7zWlsRg544"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
